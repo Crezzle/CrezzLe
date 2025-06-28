@@ -1,6 +1,6 @@
 Privacy Policy – Crezzle Printing Services
-Effective Date: 28/06/2025
-Last Updated: 28/06/2025
+Effective Date: 18/06/2025
+Last Updated: 18/06/2025
 
 1. Introduction
 Crezzle Printing Services (“I,” “me,” or “my”) is committed to protecting the privacy and data of users who download and use this mobile application (“the App”) via the Google Play Store. This Privacy Policy describes how I collect, use, disclose, and safeguard your information in accordance with Google Play Developer policies and applicable laws.
