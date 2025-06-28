@@ -1,133 +1,112 @@
-# CREZZLE PRINTING SERVICES TERMS AND CONDITIONS
+Terms and Conditions – Crezzle Printing Services (Mobile App)
+Effective Date: 18/06/2025
+Last Updated: 18/06/2025
 
-**Effective Date:** 18/06/2025  
-**Last Updated:** 18/06/2025  
+1. Introduction
+By downloading or using the Crezzle Printing Services mobile application (“App”), you agree to the following Terms and Conditions, which govern your use of the app and services. These terms comply with Google Play Developer Policies, applicable Indian laws, and international data protection principles.
 
----
+2. User Eligibility & Account Responsibility
+You must be 18 years or older or have parental/guardian consent to use this App.
 
-## SECTION A: TERMS AND CONDITIONS FOR CUSTOMERS
+You agree not to use the App for any illegal or unauthorized purpose.
 
-### 1. Order Submission
-1.1. Customers shall bear sole responsibility for ensuring that the files submitted are the final and correct versions intended for print.  
-1.2. Crezzle shall not be liable for printing errors arising from:  
-- Typographical mistakes,  
-- Incomplete files,  
-- Formatting issues inherent in customer-provided documents.  
+You are responsible for the accuracy of the data and files you upload.
 
-**Legal Reference:** Under Section 2(1)(r) of the Consumer Protection Act, 2019, complaints concerning service deficiency must be substantiated and not attributable to customer error.
+3. Order Submission & Responsibility
+Users are solely responsible for the correctness of uploaded files.
 
----
+Crezzle will not be liable for issues like:
 
-### 2. Print Quality and Reprint Policy
-2.1. Free reprints shall be offered only when the defect in printing (e.g., blurring, smudging, misalignment, faint print) is caused solely by equipment or process failure within Crezzle’s facility.  
-2.2. Defects must be reported immediately or within 30 minutes of receipt of the order.  
-2.3. Reprints will not be issued under the following conditions:  
-- Errors present in the original customer file,  
-- Submission of low-resolution or poor-quality images,  
-- Incorrect print settings selected by the customer.  
+Typos or formatting errors in submitted files
 
-**Legal Reference:** Section 39 of the Consumer Protection Act, 2019, provides consumers with redressal rights in the event of service deficiency attributable to the provider.
+Low-resolution images or incorrect file types
 
----
+Incorrect print settings selected by the user
 
-### 3. Pricing and Payment
-3.1. Pricing is transparently declared prior to order confirmation and is determined by:  
-- Paper type and size,  
-- Color vs. black-and-white printing,  
-- Total number of pages.  
-3.2. Full payment is required at the time of placing the order.  
+Legal Reference: As per Section 2(1)(r) of the Consumer Protection Act, 2019.
 
-**Legal Reference:** Section 10 of the Indian Contract Act, 1872 stipulates that acceptance of payment constitutes a binding service contract.
+4. Print Quality & Reprint Policy
+Free reprints are offered only when the issue is due to a technical or equipment fault by Crezzle.
 
----
+Users must report print defects within 30 minutes of delivery.
 
-### 4. Delivery and Turnaround
-4.1. Estimated delivery times are as follows:  
-- Standard orders: 10–30 minutes,  
-- Bulk/specialty orders: 24–48 hours (subject to complexity and order volume).  
-4.2. Delays without prior communication may constitute a breach of service standards.  
+Reprints will not be issued for:
 
-**Legal Reference:** Section 2(11) of the Consumer Protection Act, 2019, defines deficiency of service to include unreasonable delays.
+Errors in the original uploaded file
 
----
+Inappropriate file formats or poor image quality
 
-### 5. Confidentiality and Data Protection
-5.1. All customer files are treated with strict confidentiality and are deleted within 48 hours unless otherwise instructed.  
-5.2. No customer files shall be reused, stored, or shared without express consent.  
+Customer-selected settings mistakes
 
-**Legal Reference:** Section 72 of the Information Technology Act, 2000 penalizes unauthorized disclosure of user data.
+Legal Reference: Section 39 of the Consumer Protection Act, 2019.
 
----
+5. Pricing, Payment & Billing
+All pricing is displayed transparently before confirmation.
 
-### 6. Cancellations and Refunds
-6.1. Orders cannot be canceled once submitted.  
-6.2. Refunds are issued only in cases where Crezzle acknowledges a fault in service provision.  
+Final pricing depends on paper type, color, and total page count.
 
-**Legal Reference:** Section 18 of the Consumer Protection Act, 2019 supports consumer compensation in cases of verified service negligence.
+Full payment is required at the time of order via secure online methods.
 
----
+Legal Reference: Section 10 of the Indian Contract Act, 1872.
 
-### 7. Right to Refuse Service
-7.1. Crezzle reserves the right to deny service for:  
-- Material that is offensive, defamatory, or illegal,  
-- Copyrighted content submitted without authorization.  
+6. Delivery Timeframe
+Estimated delivery:
 
-**Legal Reference:** Unauthorized reproduction of protected content is prohibited under the Copyright Act, 1957.
+Standard orders: 10–30 minutes
 
----
+Bulk/specialty orders: 24–48 hours
 
-## SECTION B: TERMS AND CONDITIONS FOR VENDORS / PARTNER PRINTERS
+Delays beyond this without prior notice may constitute a breach.
 
-### 1. Vendor Responsibilities
-1.1. Vendors must ensure that:  
-- All printing machinery is properly calibrated and maintained,  
-- Client specifications are followed accurately,  
-- Deliveries are made within agreed timelines and without errors.  
+Legal Reference: Section 2(11) of the Consumer Protection Act, 2019.
 
-**Legal Reference:** Breach of service terms may lead to termination under the Indian Contract Act, 1872.
+7. Cancellations and Refunds
+Orders cannot be canceled once submitted.
 
----
+Refunds are granted only if Crezzle confirms service failure.
 
-### 2. Print Quality Standards
-2.1. Any print that is defective due to the vendor’s process (e.g., blurring, smudging, misalignment) must be reprinted at the vendor’s cost within 24 hours.  
-2.2. Repeated quality failures shall result in the vendor’s removal from Crezzle’s vendor network.  
+Legal Reference: Section 18 of the Consumer Protection Act, 2019.
 
-**Legal Reference:** Section 16 of the Indian Sale of Goods Act, 1930 implies a warranty of service quality.
+8. Data Privacy and Confidentiality
+All uploaded files are stored temporarily and auto-deleted within 48 hours.
 
----
+Files are never shared, reused, or retained without consent.
 
-### 3. Timely Delivery
-3.1. Vendors must strictly adhere to mutually agreed turnaround times.  
-3.2. In case of unavoidable delays, prompt communication with Crezzle is mandatory.  
+All handling complies with the Google Play User Data Policy and Section 72 of the IT Act, 2000.
 
-**Legal Reference:** Section 73 of the Indian Contract Act, 1872 addresses consequences of delivery delays.
+9. Prohibited Content and Usage
+We reserve the right to refuse or remove content that:
 
----
+Is illegal, defamatory, or promotes hate
 
-### 4. Vendor Payments
-4.1. Payments shall be released only upon confirmation of satisfactory delivery and quality checks.  
-4.2. Payment cycles (e.g., weekly/monthly) shall be established through mutual agreement.  
+Infringes on copyrights or third-party intellectual property
 
-**Legal Reference:** The MSMED Act, 2006 mandates timely payment to registered micro and small enterprises.
+Violates Google Play policies
 
----
+Legal Reference: Copyright Act, 1957
 
-### 5. Confidentiality Clause
-5.1. Vendors must not retain, replicate, or misuse any customer data or documents.  
-5.2. Any breach of confidentiality will result in legal action and blacklisting from future engagements.  
+10. Vendor/Partner Terms (For Print Vendors Only)
+Applicable only if you are an official vendor or print partner.
 
-**Legal Reference:** Section 72 of the IT Act, 2000 prohibits unauthorized sharing of confidential data.
+10.1 Responsibilities
+Ensure quality control and timely delivery
 
----
+Follow all client print specifications
 
-### 6. Code of Conduct
-6.1. Vendors shall maintain professionalism, courteous communication, and avoid any act of negligence.  
-6.2. Non-compliance with these standards may result in termination of the partnership without notice.
+Reference: Indian Contract Act, 1872
 
----
+10.2 Confidentiality
+No customer data may be retained, copied, or reused
 
-## CONTACT INFORMATION
+Violations result in legal action and removal from vendor network
 
-**Crezzle Printing Services**  
-**Email:** info@crezzle.com  
-**Phone:** +919686357511
+Reference: Section 72, IT Act, 2000
+
+11. Updates to Terms
+We reserve the right to update these terms at any time. Updates will be posted in-app or on our official website.
+
+12. Contact Us
+If you have any concerns or inquiries regarding these terms, reach out to:
+Crezzle Printing Services
+📧 Email: info@crezzle.com
+📞 Phone: +91 96863 57511
